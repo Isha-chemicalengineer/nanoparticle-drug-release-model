@@ -3,6 +3,7 @@ Diffusion-Based Drug Release from Nanoparticles
 Overview
 This project models drug release from a spherical nanoparticle under diffusion-controlled conditions. The aim is to understand how transport phenomena influence drug release and how external triggers such as ultrasound can enhance release rates.
 This was implemented as a small computational exercise to connect core chemical engineering concepts with drug delivery systems.
+This work was motivated by recent research in stimuli-responsive drug delivery systems, particularly ultrasound-triggered release mechanisms.
 
 Results Visualization
 
@@ -44,6 +45,7 @@ Files
 - results.png → output graph  
 
  Future Scope
-- Solve full diffusion equation (Fick’s second law)  
+- Solve full diffusion equation
 - Include degradation and multi-layer nanoparticle effects  
-- Extend model to biological barriers and realistic drug delivery systems  
+- Investigate coupling between external fields (ultrasound) and transport enhancement mechanisms
+- Extend toward modeling drug transport across biological barriers 
