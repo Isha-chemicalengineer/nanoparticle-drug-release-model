@@ -4,6 +4,11 @@ Overview
 This project models drug release from a spherical nanoparticle under diffusion-controlled conditions. The aim is to understand how transport phenomena influence drug release and how external triggers such as ultrasound can enhance release rates.
 This was implemented as a small computational exercise to connect core chemical engineering concepts with drug delivery systems.
 
+Results Visualization
+
+![Drug Release Graph](results.png)
+
+
 Objective
 - To model diffusion-controlled drug release from nanoparticles
 - To study the effect of diffusion coefficient on release kinetics
